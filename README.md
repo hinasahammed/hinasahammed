@@ -9,7 +9,7 @@ I'm a motivated software developer with a 3-year journey under my belt, having t
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My portfolio](http://hinasahammed.github.io/hinasahammed.io/)
 * ✉️  You can contact me at [hinaskkahammed@gmail.com](mailto:hinaskkahammed@gmail.com)
-* 🚀  I'm currently working on [portfolio]((https://github.com/hinasahammed/wallet_app))
+* 🚀  I'm currently working on [Wallet app]([https://github.com/hinasahammed/wallet_app])
 * 🧠  I'm learning Flutter development
 * 🤝  I'm open to collaborating on I'm open to collaborating on Api and real time project
 
